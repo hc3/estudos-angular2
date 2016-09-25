@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/angular-2-boilerplate" libraries="{estudos-angular2/angular-2-boilerplate/node_modules}" />
+  </component>
+</project>
