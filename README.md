@@ -144,3 +144,8 @@ export class CursosComponent {
 
 R - Repetir
 podemos fazer o mesmo processo para todos os outros componentes que forem sendo criados.
+
+
+### **Aula 07 ** Serviços e DI ( Injeção de dependência )
+
+Os serviços são a ponte entre o servidor e o component, por muitas vezes precisamos fazer uma requisição para um servidor e retornar dados os serviços são os responsáveis por isso.
