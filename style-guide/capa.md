@@ -33,7 +33,7 @@ mais fácil de ler.
 ### Ìndice
 <ol>
 	<li><a href="./content/singleresponsibility.md">Single Responsibility</a></li>
-	<li>Naming</li>
+	<li><a href="./content/naming.md">Naming</a></li>
 	<li>Coding Conventions</li>
 	<li>Appliucation Structure</li>
 	<li>Components</li>
