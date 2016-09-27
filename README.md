@@ -125,7 +125,7 @@ D - Decorate
 ````
 
 A - Alterar
-````
+````typescript
 import { Component } from '@angular/core';
 
 @Component({
